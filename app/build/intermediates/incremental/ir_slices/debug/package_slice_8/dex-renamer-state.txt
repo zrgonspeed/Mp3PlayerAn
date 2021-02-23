@@ -1,0 +1,4 @@
+#Tue Mar 12 21:49:53 CST 2019
+base.0=C\:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
+path.0=classes.dex
+renamed.0=classes.dex

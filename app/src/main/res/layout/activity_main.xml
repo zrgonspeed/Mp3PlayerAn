@@ -1,0 +1,66 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.zrg.mp3player.main.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/bt_localMusic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3.43"
+            android:text="本地音乐" />
+
+        <Button
+            android:id="@+id/bt_onlineMusic"
+            android:layout_width="119dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.91"
+            android:text="在线音乐" />
+
+        <Button
+            android:id="@+id/bt_downloadui"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="下载" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lv_mp3"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:gravity="center_horizontal"></ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:background="#50616C57"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:id="@+id/bt_last"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/last0" />
+
+        <ImageButton
+            android:id="@+id/bt_mainplay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/play" />
+
+        <ImageButton
+            android:id="@+id/bt_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/next0" />
+    </LinearLayout>
+
+</LinearLayout>

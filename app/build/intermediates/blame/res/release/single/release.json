@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\layout_item_download.xml.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\layout\\item_download.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\menu_main.xml.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_play.png.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-mdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\layout_activity2.xml.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\layout\\activity2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_last0.png.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-mdpi\\last0.png"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_next0.png.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-mdpi\\next0.png"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_fj42.jpg.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-mdpi\\fj42.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_download.png.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-mdpi\\download.png"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\layout_item_mp3.xml.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\layout\\item_mp3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\layout_item1.xml.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\layout\\item1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_pause0.png.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-mdpi\\pause0.png"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_fj4.jpg.flat",
+        "source": "C:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\src\\main\\res\\drawable-mdpi\\fj4.jpg"
+    }
+]

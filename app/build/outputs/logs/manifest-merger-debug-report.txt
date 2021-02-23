@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:12:5-31:19
+	android:label
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.zrg.mp3player.main.MainActivity
+ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:19:13-45
+	android:launchMode
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:20:13-48
+	android:name
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:18:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:24:27-74
+activity#com.zrg.mp3player.main.DownActivity
+ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:launchMode
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:29:13-48
+	android:name
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml:28:13-63
+uses-sdk
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+		ADDED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml
+		INJECTED from D:\other\AndroidStudioProjects\Mp3PlayerAn\app\src\main\AndroidManifest.xml

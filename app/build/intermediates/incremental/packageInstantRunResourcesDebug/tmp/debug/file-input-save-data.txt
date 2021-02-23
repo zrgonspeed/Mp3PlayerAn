@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Mar 12 21:58:50 CST 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\ZRG\\AndroidStudioProjects\\Mp3PlayerAn\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.path=my.mp3
+0.set=ASSET
+count=1
